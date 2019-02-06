@@ -1,0 +1,45 @@
+Quora Dataset Terms of Use
+
+Use of Quora's dataset, hosted in the links below("Quora Dataset"), is subject to the Dataset Terms of Use and Quora's Terms of Service (“Platform Terms”; https://www.quora.com/about/tos) for use of the Quora Platform (as defined in the Platform Terms).
+
+DATASET TERMS OF USE
+
+1. License.
+
+Quora grants you a limited, non-exclusive, non-sublicensable, non-transferable license to access and use the Quora Dataset, subject to these terms. This license is limited to noncommercial uses and for informational and research purposes only.
+
+2. Prohibitions. You may not:
+
+a. distribute or transfer the Quora Dataset to other persons or entities;
+
+b. distribute the Quora Dataset on the internet;
+
+c. use the Quora Dataset for any commercial purposes;
+
+d. use the Quora Dataset to conduct or facilitate activity that violates privacy or other laws or regulations;
+
+e. use the Quora Dataset to perform an action with the intent of introducing a virus; worm, defect, malware, or any other harmful or malicious item in the Quora Platform.
+
+f. use the Quora Dataset for any purpose which or might overburden, impair or disrupt the Quora Platform, our servers or networks, including by reverse-engineering and circumventing security measures
+
+g. remove identification, copyright, license or other proprietary notices that may be included in the Quora Dataset; or
+
+h. tamper with, impair or damage the Quora Dataset.
+
+3. Ownership.
+
+Quora owns all intellectual property rights in and to the Quora Dataset. Nothing in these terms transfers title of any portion of the Quora Dataset to you.
+
+4. Disclaimer and Limitation of Liability.
+
+THE QUORA DATASET IS PROVIDED “AS IS” AND “AS AVAILABLE.” QUORA EXPRESSLY DISCLAIMS ALL REPRESENTATIONS AND WARRANTIES OF ANY KIND REGARDING THE QUORA DATASET.
+
+QUORA WILL NOT BE LIABLE FOR ANY DAMAGES RELATED TO YOUR USE OF THE QUORA DATASET, INCLUDING BUT NOT LIMITED TO ANY DIRECT, INDIRECT, INCIDENTAL, PUNITIVE, EXEMPLARY, SPECIAL OR CONSEQUENTIAL DAMAGES, INCLUDING LOST PROFITS AND PROPERTY DAMAGE, EVEN IF WE WERE ADVISED OF THE POSSIBILITY OF SUCH DAMAGES. YOUR SOLE REMEDY FOR DISSATISFACTION WITH THE QUORA DATASET IS TO STOP USING IT.
+
+5. Attribution.
+
+Use of the Quora Dataset, as authorized by these terms, requires attribution to “Quora, Inc., http://www.quora.com”
+
+6. Changes to the Quora Dataset.
+
+The Quora Dataset may be available only for limited period of time and may be removed, replaced, changed or updated at any time at our sole discretion and with or without notice to you.
